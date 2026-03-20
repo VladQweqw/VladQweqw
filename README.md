@@ -1,5 +1,5 @@
-# 👋 Hi, I'am Razvan Poienariu 
-#### 👉 I am a passionate software developer with experience in CCNA networking, Python, Full-stack development and Linux System / Server Administrator.
+# 👋 Hi, I'am Vlad Poienariu 
+#### I am a passionate software developer with experience in CCNA networking, Python, Full-stack development and Linux System / Server Administrator.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vlad-poienariu-0a79a721a) 
